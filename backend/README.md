@@ -1,5 +1,3 @@
-# BACKEND-API5S
-
 DADOS DA API DA NASA: 
 https://power.larc.nasa.gov/#resources
 https://power.larc.nasa.gov/api/pages/?urls.primaryName=Indicators

@@ -14,7 +14,7 @@ Antes de começar, certifique-se de que você tenha os seguintes pré-requisitos
 
  1. #### **Clone o Repositório e instale as dependências**
    ```bash
-   git clone https://github.com/FATEC-FULLSTACK/FRONTEND-API5S.git
+   git clone (https://github.com/Leonardo-Gazola-Medeiros/Sistema_Meteorologia_Mobile.git)
    cd client
    pnpm install
 ```
